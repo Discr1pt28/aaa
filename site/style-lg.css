@@ -1,0 +1,18 @@
+@media(max-width: 1320px){
+	.container{
+    width: 851px;
+    margin: 0 auto;
+}
+.header-inner a{
+font-size: 16px;
+	}
+.logo-img{
+	width: 80px;
+}
+.contact{
+	margin-left: 30px;
+}
+.logo{
+	margin-right: 30px;
+}
+}
